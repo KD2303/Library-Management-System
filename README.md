@@ -10,7 +10,7 @@ The goal of the Library Management System is to improve library efficiency by au
 
 <h2>Specification</h2>
 <ul>
-  <li>Language - C</li>
+  <li>Language - HTML, CSS, JS</li>
   <li>Database - SQL</li>
 </ul>
 
