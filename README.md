@@ -11,7 +11,7 @@ The goal of the Library Management System is to improve library efficiency by au
 <h2>Specification</h2>
 <ul>
   <li>Language - HTML, CSS, JS</li>
-  <li>Database - SQL</li>
+  <li>Database - CSV file</li>
 </ul>
 
 
